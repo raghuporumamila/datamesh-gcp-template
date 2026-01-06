@@ -69,3 +69,4 @@ Once this infrastructure is deployed, the data lifecycle within the mesh follows
 * **Decentralization:** You can give the Marketing team "Admin" rights to just their Lake, so they can manage their own data products without bothering a central IT team.
 * **Automation:** By using Terraform, you ensure that every new domain (Sales, Finance, HR) has the exact same security posture and zone structure.
 
+**See DataplexDataQuality.MD how to set up a Dataplex Data Quality (DQ) scan using YAML to ensure your "Data Products" meet your reliability standards**

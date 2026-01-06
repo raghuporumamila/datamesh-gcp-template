@@ -78,4 +78,3 @@ As your Data Mesh grows, you might find managing hundreds of individual view aut
 
 In a mature Data Mesh, use **Authorized Datasets**. This allows you to authorize an *entire dataset* of views at once. Any new view you add to that "Shared" dataset automatically gets permission to read from your "Internal" source.
 
-**Would you like me to provide the IAM roles required for a "Consumer" service account to query these views from a different project?**

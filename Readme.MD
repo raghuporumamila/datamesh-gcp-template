@@ -67,4 +67,4 @@ In a Data Mesh, you don't "give access" to a table; you "publish" a product.
 * **Standardize Names:** Use a consistent naming convention across projects (e.g., `[Env]-[Domain]-[Service]`).
 * **Focus on the "Contracts":** Ensure domain teams provide documentation and schemas for their data products so consumers don't have to ask "what does this column mean?"
 
-**Please take a look at datamesh-terraform code how to automate the datamesh**
+**Please take a look at DataMeshTerraform.MD code how to automate the datamesh**
