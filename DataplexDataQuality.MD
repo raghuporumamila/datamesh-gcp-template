@@ -86,4 +86,4 @@ In a decentralized mesh, the central team cannot manually check everyone's data.
 1. **Producers** (Marketing) take responsibility for their own quality scores.
 2. **Consumers** (Finance) gain trust in the data because they can see the "Quality Stamp" before using it.
 
-**See AuthorizedView.MD how to set up an "Authorized View" in BigQuery to safely share these data products across projects without moving the data?**
+**See AuthorizedView.MD how to set up an "Authorized View" in BigQuery to safely share these data products across projects without moving the data**
