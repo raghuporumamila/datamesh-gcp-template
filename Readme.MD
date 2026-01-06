@@ -5,7 +5,6 @@ In GCP, the primary orchestrator for this is **Dataplex**, which provides the fa
 ---
 
 ## 1. Core Architecture Components
-
 To implement Data Mesh, you must map the four principles of the framework to specific GCP services:
 
 | Data Mesh Principle | GCP Implementation Tool |
@@ -16,6 +15,8 @@ To implement Data Mesh, you must map the four principles of the framework to spe
 | **Federated Governance** | **Dataplex (Centralized Policy) & Data Catalog**: Global tags for PII/classification enforced at the local level. |
 
 ---
+
+![DataMeshArchitecture.png](DataMeshArchitecture.png)
 
 ## 2. Step-by-Step Implementation Guide
 
